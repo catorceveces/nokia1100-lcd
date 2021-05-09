@@ -38,5 +38,5 @@ En este caso utilicé una protoboard secundaria para la salida de 3.3v de Arduin
 Una vez cableado, instalar [esta librería](https://github.com/vasiliucatalinmihai/Arduino-library-nokia-1100-lcd--PCF8814).
 
 <p align=“center”>
-  <img width=“620” height=“310” src=“https://github.com/catorceveces/nokia1100/blob/main/pics/final.jpeg">
+  <img width=“620” height=“310” src="https://github.com/catorceveces/nokia1100/blob/main/pics/final.jpeg">
 </p>
