@@ -18,14 +18,14 @@ Soldar los pads del display para armar el cableado.
 
 Las conexiones a Arduino de cada uno de los ochos pads del display:
 
-LED: 3.3v
-VDD: 3.3v
-VDDI: 3.3v
-SCLK: Pin 13
-SDA: Pin 11
-GND: GND
-CS: Pin 10
-RES: Pin 12
+LED: 3.3v || 
+VDD: 3.3v || 
+VDDI: 3.3v || 
+SCLK: Pin 13 || 
+SDA: Pin 11 || 
+GND: GND || 
+CS: Pin 10 || 
+RES: Pin 12 || 
 
 <p align=“center”>
   <img width=“310” height=“310” src="https://github.com/catorceveces/nokia1100/blob/main/pics/image.jpg">
