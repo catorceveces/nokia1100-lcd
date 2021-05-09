@@ -13,7 +13,7 @@ Reutilizar LCD de Nokia 1100.
 Soldar los pads del display para armar el cableado.
 
 <p align=“center”>
-  <img src=“pics/pads.jpeg” width=“310” height=“310”>
+  <img src=“https://raw.githubusercontent.com/catorceveces/nokia1100/main/pics/pads.jpeg” width=“310” height=“310”>
 </p>
 
 Las conexiones a Arduino de cada uno de los ochos pads del display:
@@ -28,7 +28,7 @@ CS: Pin 10
 RES: Pin 12
 
 <p align=“center”>
-  <img src=“pics/image.jpg” width=310 height=“310”>
+  <img src=“https://raw.githubusercontent.com/catorceveces/nokia1100/main/pics/image.jpg” width=310 height=“310”>
 </p>
 
 *Es importante alimentar la protoboard con 3.3v de Arduino, ya que 5v van a quemar la pantalla*.
@@ -38,5 +38,5 @@ En este caso utilicé una protoboard secundaria para la salida de 3.3v de Arduin
 Una vez cableado, instalar [esta librería](https://github.com/vasiliucatalinmihai/Arduino-library-nokia-1100-lcd--PCF8814).
 
 <p align=“center”>
-  <img src=“pics/final.jpeg" width=“620” height=“310”>
+  <img src=“https://raw.githubusercontent.com/catorceveces/nokia1100/main/pics/final.jpeg" width=“620” height=“310”>
 </p>
