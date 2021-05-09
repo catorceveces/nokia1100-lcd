@@ -25,7 +25,7 @@ SCLK: Pin 13 ||
 SDA: Pin 11 || 
 GND: GND || 
 CS: Pin 10 || 
-RES: Pin 12 || 
+RES: Pin 12 
 
 <p align=“center”>
   <img width=“310” height=“310” src="https://github.com/catorceveces/nokia1100/blob/main/pics/image.jpg">
